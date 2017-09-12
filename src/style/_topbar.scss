@@ -2,7 +2,7 @@
 {
     padding: 8px 30px;
 
-    background-color: #89bf04;
+    background-color: rgba(171,171,171,1);
     .topbar-wrapper
     {
         display: flex;
@@ -42,7 +42,7 @@
             min-width: 350px;
             margin: 0;
 
-            border: 2px solid #547f00;
+            border: 2px solid #5B9BD5;
             border-radius: 4px 0 0 4px;
             outline: none;
         }
@@ -72,7 +72,7 @@
 
                 width: 100%;
 
-                border: 2px solid #547f00;
+                border: 2px solid #5B9BD5;
                 outline: none;
                 box-shadow: none;
             }
@@ -88,7 +88,7 @@
 
             border: none;
             border-radius: 0 4px 4px 0;
-            background: #547f00;
+            background: #5B9BD5;
 
             @include text_headline(#fff);
         }
