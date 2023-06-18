@@ -1,3 +1,9 @@
+# SUPERSESSION NOTICE
+
+Note that this repo is now superseded.  The production RAiD app can be found at: https://github.com/au-research/raido
+
+Please create a discussion on that repo, or email contact@raid.org if you have any questions.
+
 # Swagger UI
 
 [![NPM version](https://badge.fury.io/js/swagger-ui.svg)](http://badge.fury.io/js/swagger-ui)
